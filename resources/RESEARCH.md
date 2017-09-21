@@ -15,6 +15,7 @@
 
 * [MapBox GL](https://www.mapbox.com/mapbox-gl-js/api/) - Mapbox GL JS is a JavaScript library that uses WebGL to render interactive maps from vector tiles and Mapbox styles.
   * [Bringing 3D terrain to the browser with Three.js – Points of interest](https://blog.mapbox.com/bringing-3d-terrain-to-the-browser-with-three-js-410068138357) - Mapbox article on creating a 3D terrain in a web map.
+    * [Terra Demo](https://www.mapbox.com/bites/00332/#14.3343/36.3987/-112.5366/136.4435/36)
     * [Peter Liu Github](https://github.com/peterqliu)
 
 * [Mapzen Tangram](https://github.com/tangrams/tangram) - Tangram: WebGL Maps for Vector Data
@@ -44,6 +45,7 @@
 * [A World of Change](https://news-lab-trends-experiment.appspot.com/) - Climate change through the lens of Google Search
 * [Global Oil Map](http://www.gsmlondon.ac.uk/global-oil-map/)
 * [Above the Clouds](http://earth.plus360degrees.com/) - A mesmerizing journey around the Earth (Built with Three.js)
+* [Hell and High Water](https://projects.propublica.org/houston/) - Houston predicted flooding from hurricane 2016
 
 * Sun Shading
     * [TerrainShade](https://github.com/mikeskaug/TerrainShade) - Visualize areas of sun/shade over terrain with Mapzen and Three.js
@@ -53,7 +55,10 @@
   * [WebGL](https://www.khronos.org/webgl/wiki/Main_Page)
     * [WebGL Fundamentals](https://webglfundamentals.org/) - Articles that teach WebGL from basic principles.
 
+  * [Deck.gl](https://github.com/uber/deck.gl) - WebGL based visualization layers
+
   * [Three.js](https://threejs.org/)
+  
   * [BabylonJS](http://www.babylonjs.com/) - A complete JavaScript framework for building 3D games with HTML5, WebGL, WebVR and Web Audio
 
   * [The Book of Shaders](https://thebookofshaders.com/)
